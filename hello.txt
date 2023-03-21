@@ -1,4 +1,4 @@
-hello world!
+hello world! i am learning the principle of git.
 hello world!
 hello world!
 hello world!
